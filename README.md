@@ -1,4 +1,4 @@
-# 🎯 Ingenium - AI-Powered Career Development Platform
+# 🎯 CAREER SARTHI
 
 An intelligent career development platform that provides personalized skill gap analysis, course recommendations, and project suggestions based on user profiles and career goals. Built for the Ingenium Hackathon.
 
